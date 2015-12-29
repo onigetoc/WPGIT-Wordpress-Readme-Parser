@@ -20,7 +20,7 @@ It's ideal for plugin developers who wish to add instructions to their own site 
     echo $wpParser->url($readme_file);
 
 ###Todo
-1. Something not reading code well `code`  ` 
+1. Something not reading codes well `code`  ` 
 2. better todo
 
 ####Plead help me to make it better
