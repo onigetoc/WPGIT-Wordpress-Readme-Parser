@@ -26,5 +26,5 @@ It's ideal for plugin developers who wish to add instructions to their own site 
 ####Plead help me to make it better
 Fork it and help me and us to make it better.
 
-###Example sreenshot result
+###Example screenshot result
 ![example view](https://raw.githubusercontent.com/onigetoc/WPGIT-Wordpress-Readme-Parser/master/screenshot-1.jpg)
