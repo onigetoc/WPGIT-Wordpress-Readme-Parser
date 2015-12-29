@@ -21,7 +21,7 @@ It's ideal for plugin developers who wish to add instructions to their own site 
 
 ###Todo
 1. Something not reading code well `code`  ` 
-2. 
+2. better todo
 
 ####Plead help me to make it better
 Fork it and help me and us to make it better.
