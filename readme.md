@@ -8,7 +8,7 @@ WordPress README PARSER files are formatted using a version of the Markdown lang
 
 It's ideal for plugin developers who wish to add instructions to their own site without having to duplicate effort.
 
-1. `New` Support Youtube video
+1. `New` Support Youtube videos
 2. Make links as `target="_blank"`
 3. Read and render images
 
